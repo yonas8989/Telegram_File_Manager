@@ -7,7 +7,7 @@ download_dir = r"C:\Users\hp\Downloads\telegram Desktop"  # Linux/macOS path
 
 # Define file categories and their extensions
 file_categories = {
-    "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff"],
+    "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff", ".heic"],  # Add .heic
     "Videos": [".mp4", ".mkv", ".avi", ".mov", ".wmv", ".flv"],
     "Documents": [".pdf", ".doc", ".docx", ".txt", ".xlsx", ".xls", ".ppt", ".pptx"],
     "Audio": [".mp3", ".wav", ".flac", ".ogg"],
